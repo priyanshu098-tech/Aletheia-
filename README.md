@@ -10,12 +10,12 @@ It doesn't just answer — it **shows its work**.
 It plans, searches multiple sources, evaluates credibility, flags contradictions, and builds a transparent, citation-backed report. All in real time, on a living dashboard.
 
 ## Key Features
-- 🧠 **Smart Planning** — Automatically decomposes a question into sub-questions.
-- 🔍 **Multi‑Source Search** — Web, academic, and news sources searched in parallel.
-- 🛡️ **Credibility Scoring** — Each source gets a trust badge (High / Medium / Low).
-- ⚠️ **Contradiction Detection** — Finds conflicting claims and attempts resolution.
-- 📊 **Interactive Reasoning Graph** — Click any claim to see its source trail.
-- 📋 **Structured Report** — Executive summary, key findings, confidence scores, citations.
+- 🧠 **Smart Planning** – Automatically decomposes a question into sub-questions.
+- 🔍 **Multi‑Source Search** – Web, academic, and news sources searched in parallel.
+- 🛡️ **Credibility Scoring** – Each source gets a trust badge (High / Medium / Low).
+- ⚠️ **Contradiction Detection** – Finds conflicting claims and attempts resolution.
+- 📊 **Interactive Reasoning Graph** – Click any claim to see its source trail.
+- 📋 **Structured Report** – Executive summary, key findings, confidence scores, citations.
 
 ## How It's Different
 Most AI tools are black boxes. Aletheia is a **glass box**.  
